@@ -1,4 +1,4 @@
-# Introduction
+# Gayatri's Introduction
 
 I’m a product manager who builds data and AI products. I have a PhD in cognitive psychology and a BS in computer engineering, and ten years of experience in data and product, from donor propensity models at UT Austin to knowledge analytics for AWS Prescriptive Guidance. My scope has grown steadily, from building models to owning products end to end. At DatumSure I did principal-level work on an AI-assisted data onboarding product, covering the requirements, the UI, and the review flow where a person can approve or edit each AI suggestion. I write production SQL, prototype in React and TypeScript with Claude Code, and write specs for engineers, executives, and customers. This repo is my portfolio: case studies and prototypes that show how I work.
 
