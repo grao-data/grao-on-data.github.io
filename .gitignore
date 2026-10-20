@@ -1,0 +1,5 @@
+.DS_Store
+config.json
+snapshot.json
+current.json
+out/
