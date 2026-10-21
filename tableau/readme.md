@@ -1,5 +1,5 @@
-##Introduction and Background
+# Introduction and Background
 I created this dashboard in 2019 in response to the Austin Independent School District creating a plan to restructure funding to AISD schools while closing a number of them. AISD officials stressed the equity of the process and allocation but to people attending schools on the Eastside (historically underfunded and underrepresented), it seemed dishonest. Eastside schools seemed to be the most affected in terms of closures. I set up this visualization to measure the actual amount of money being allocated to schools in the west vs. east. My introduction page describes my findings and two tabs shows details on my two findings.  
 
-Link to Dashboard
+## Link to Dashboard
 https://public.tableau.com/profile/gayatri4253#!/vizhome/AISD2019Proposal/Story1
