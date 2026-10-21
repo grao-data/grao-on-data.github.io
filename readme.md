@@ -16,5 +16,5 @@ I write for the reader in front of me. Engineers get precise specs, customers ge
 My career has been broad and varied. Here are some examples of my work:
 
 1. My PhD thesis: Measuring phonetic convergence : [Segmental and suprasegmental speech adaptations during native and non-native talker interactions](https://repositories.lib.utexas.edu/items/3b5be7ae-16b2-45f1-a310-c054d4c6ab6f)
-2. A claude skill to job hunting beyond job boards: [Hirewire](https://github.com/grao-data/grao-on-data.github.io/tree/main/Hirewire%20Claude%20skill)
+2. A claude skill for a more curated job hunt that looks beyond job boards: [Hirewire](https://github.com/grao-data/grao-on-data.github.io/tree/main/Hirewire%20Claude%20skill)
 3. A visualization example using Tableau: [Examining the 2019 funding proposal for the Austin Independent School District](https://github.com/grao-data/grao-on-data.github.io/tree/main/tableau)
